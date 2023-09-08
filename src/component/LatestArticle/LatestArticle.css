@@ -1,0 +1,78 @@
+.latestcontainer{
+    position: absolute;
+    width: 1225px;
+height: 679px;
+top: 1614px;
+left: 108px;
+
+
+}
+
+.latestheading{
+    width: 461px;
+height: 84px;
+font-family:sans-serif;
+font-size: 56px;
+font-weight: 600;
+line-height: 42px;
+letter-spacing: 0.04em;
+text-align: left;
+color: #0E2368;
+}
+
+.card{
+    width: 381px;
+height: 554px;
+top: 1739px;
+left: 108px;
+border-radius: 20.937036514282227px;
+border: 1.3703877925872803px;
+color: #ffffff;
+border: 1.37px solid #93A2D361;
+
+}
+
+.latestcardcontainer{
+    position: absolute;
+    width:1225px;
+    top: 123px;
+    display: flex;
+    gap: 41px;
+}
+
+.prevbutton{
+    position: absolute;
+    width: 28px;
+height: 29px;
+top: 743px;
+left: 555px;
+border-radius: 5px;
+border: 1px solid #AFAFAF
+}
+
+.nextbutton{
+    position: absolute;
+    width: 28px;
+height: 29px;
+top: 743px;
+left: 641px;
+border-radius: 5px;
+border: 1px solid #424961;
+
+}
+
+.currentpage{
+    position: absolute;
+    width: 30px;
+height: 28px;
+top: 743px;
+left: 597px;
+font-family: Source Sans Pro;
+font-size: 22px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}

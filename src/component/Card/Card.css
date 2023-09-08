@@ -1,0 +1,60 @@
+.cardcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 381px;
+height: 554px;
+}
+
+.cardcontainer>img{
+    width: 326px;
+height: 257px;
+border-radius: 21px;
+margin-bottom:27.407756805419922px;
+
+}
+
+.cardsubcontainer{
+    width: Fixed (295.02px);
+height: Fixed (194.52px);
+
+}
+
+.title{
+    width: 285px;
+height: 27px;
+font-family: Poppins;
+font-size: 21px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #0E2368;
+margin-bottom:14px;
+}
+
+.description{
+    width: 295px;
+height: 81px;
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.02em;
+text-align: left;
+color: #444957;
+margin-bottom: 14px;
+}
+
+.readmorecard{
+    width: Fixed (131px);
+height: Fixed (42px);
+padding: 3px 26px 3px 26px;
+border-radius: 21px;
+border: 1px;
+gap: 10px;
+color:#424961;
+border: 1px solid #424961
+
+}

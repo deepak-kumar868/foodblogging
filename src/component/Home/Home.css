@@ -1,0 +1,96 @@
+.container{
+    width: 1440px;
+height: 804px;
+background-color: #ffffff;
+
+}
+.logo{
+position: absolute;
+width: 107px;
+height: 83px;
+top: 33px;
+left: 100px;
+}
+
+.heading{
+    position: absolute;
+width: 345px;
+height: 207px;
+top: 227px;
+left: 100px;
+font-family: Source Sans Pro;
+font-size: 62px;
+font-weight: 700;
+line-height: 69px;
+letter-spacing: 0em;
+text-align: left;
+color: #0E2368;
+}
+
+.highlight{
+    color:#E23744;
+}
+
+.para{
+    position: absolute;
+    width: 345px;
+height: 55px;
+top: 460px;
+left: 100px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #444957;
+}
+
+.explore{
+    position: absolute;
+    width: Fixed (190px);
+height: Fixed (63px);
+top: 556px;
+left: 97px;
+padding: 14px 34px 14px 34px;
+border-radius: 34px;
+gap: 7px;
+background-color: #E23744;
+color: white;
+border: none;
+}
+
+.right{
+    position: absolute;
+    width: 735px;
+height: 804px;
+top: 5px;
+left: 705px;
+border-radius: 0px 0px 0px 198.90184020996094px;
+
+}
+
+.redblank{
+    position: absolute;
+    width: 752px;
+height: 839px;
+left: 688px;
+
+}
+
+.getintouch{
+    width: Fixed (69px);
+    height: Fixed (42px);
+    top: 32px;
+    left: 1287px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 21px;
+    border: 1px;
+        color: #ffffff;
+    position: absolute;
+    border: 1px solid #FFFFFF;
+    background: transparent;
+
+    
+}
+
